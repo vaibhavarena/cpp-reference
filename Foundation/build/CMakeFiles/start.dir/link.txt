@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/start.dir/3.multi_file_main.cpp.o CMakeFiles/start.dir/multi_file_add.cpp.o  -o start 

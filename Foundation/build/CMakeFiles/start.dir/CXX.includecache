@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Vaibhav/Documents/Disk D/Sector 16/c++ nanodegree/3.multi_file_main.cpp
+iostream
+-
+multi_file_add.h
+/mnt/c/Users/Vaibhav/Documents/Disk D/Sector 16/c++ nanodegree/multi_file_add.h
+
+/mnt/c/Users/Vaibhav/Documents/Disk D/Sector 16/c++ nanodegree/multi_file_add.h
+
