@@ -1,3 +1,5 @@
+// Use argument -pthread in g++ to use multi threading
+
 #include<iostream>
 #include<thread>
 
