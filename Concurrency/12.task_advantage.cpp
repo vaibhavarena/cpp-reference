@@ -14,7 +14,7 @@ void square(double x, int num)
 int main()
 {
     double y = 2345.1234;
-    int nThreads = 1000000;
+    int nThreads = 10000;
     
     std::vector<std::future<void>> futures;
 
